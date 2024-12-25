@@ -12,7 +12,7 @@
 ### <a href="https://1drv.ms/w/c/eaeb0870ac391b0d/EYw13vARnyZGnvrXbGMaVZAB6pQmdN0ZCDweBZYVxk3ung?e=omiFRT" target="_blank">План проекта</a>
 ### <a href="https://drive.google.com/file/d/15g1KpgPB_wOPt9g5gKNXi1cvKHuMrpbq/view" target="_blank"> Демонстрация успешной посадки Луны-25 в KSP</a>
 > в папке Luna-25-Craft можно найти крафт, использованный в демонстрации 
-### <a href="https://drive.google.com/file/d/1EUJFJg5leMfYJt7bZO0tunk4jan8n1QJ/view?usp=drivesdk" target="_blank">Видеоотчёт</a> 
+### <a href="https://drive.google.com/file/d/1Y7EA6c2cML_WRQs6lfyrBZ-f2PPfqoZO/view?usp=sharing" target="_blank">Видеоотчёт</a> 
 ### <a href="https://glowscript.org/#/user/zaytsevtima2006/folder/MyPrograms/program/SpaceMMoon25" target="_blank">Онлайн 3D симуляция</a> 
 > Используя возможности VPython, удалось создать упрощенный KSP, позволяющий просимулировать, например, вращение аппарата вокруг Луны, используя лишь навыки в программировании и знания по физике/математике.
 > Исходный код программы можно найти в папке VPython
